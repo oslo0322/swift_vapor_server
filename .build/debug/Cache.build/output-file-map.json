@@ -1,0 +1,23 @@
+{
+  "": {
+    "swift-dependencies": "/Users/oslo/code/swift_vapor_server/.build/debug/Cache.build/master.swiftdeps"
+  },
+  "/Users/oslo/code/swift_vapor_server/Packages/Vapor-1.5.12/Sources/Cache/CacheProtocol.swift": {
+    "dependencies": "/Users/oslo/code/swift_vapor_server/.build/debug/Cache.build/CacheProtocol.d",
+    "object": "/Users/oslo/code/swift_vapor_server/.build/debug/Cache.build/CacheProtocol.swift.o",
+    "swiftmodule": "/Users/oslo/code/swift_vapor_server/.build/debug/Cache.build/CacheProtocol~partial.swiftmodule",
+    "swift-dependencies": "/Users/oslo/code/swift_vapor_server/.build/debug/Cache.build/CacheProtocol.swiftdeps"
+  },
+  "/Users/oslo/code/swift_vapor_server/Packages/Vapor-1.5.12/Sources/Cache/FluentCache.swift": {
+    "dependencies": "/Users/oslo/code/swift_vapor_server/.build/debug/Cache.build/FluentCache.d",
+    "object": "/Users/oslo/code/swift_vapor_server/.build/debug/Cache.build/FluentCache.swift.o",
+    "swiftmodule": "/Users/oslo/code/swift_vapor_server/.build/debug/Cache.build/FluentCache~partial.swiftmodule",
+    "swift-dependencies": "/Users/oslo/code/swift_vapor_server/.build/debug/Cache.build/FluentCache.swiftdeps"
+  },
+  "/Users/oslo/code/swift_vapor_server/Packages/Vapor-1.5.12/Sources/Cache/MemoryCache.swift": {
+    "dependencies": "/Users/oslo/code/swift_vapor_server/.build/debug/Cache.build/MemoryCache.d",
+    "object": "/Users/oslo/code/swift_vapor_server/.build/debug/Cache.build/MemoryCache.swift.o",
+    "swiftmodule": "/Users/oslo/code/swift_vapor_server/.build/debug/Cache.build/MemoryCache~partial.swiftmodule",
+    "swift-dependencies": "/Users/oslo/code/swift_vapor_server/.build/debug/Cache.build/MemoryCache.swiftdeps"
+  }
+}

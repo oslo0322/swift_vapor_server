@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/oslo/code/swift_vapor_server/.build/debug/libc.build/master.swiftdeps"
+  },
+  "/Users/oslo/code/swift_vapor_server/Packages/Core-1.1.1/Sources/libc/libc.swift": {
+    "dependencies": "/Users/oslo/code/swift_vapor_server/.build/debug/libc.build/libc.d",
+    "object": "/Users/oslo/code/swift_vapor_server/.build/debug/libc.build/libc.swift.o",
+    "swiftmodule": "/Users/oslo/code/swift_vapor_server/.build/debug/libc.build/libc~partial.swiftmodule",
+    "swift-dependencies": "/Users/oslo/code/swift_vapor_server/.build/debug/libc.build/libc.swiftdeps"
+  }
+}

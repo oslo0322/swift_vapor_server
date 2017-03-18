@@ -1,0 +1,7 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "5d7bc4462887aa712344a258374989a9"
+build_time: [543137225, 248863000]
+inputs:
+  "/Users/oslo/code/swift_vapor_server/Packages/Crypto-1.1.0/Sources/Hash/Hash.swift": [543137040, 0]
+  "/Users/oslo/code/swift_vapor_server/Packages/Crypto-1.1.0/Sources/Hash/Method.swift": [543137040, 0]
+  "/Users/oslo/code/swift_vapor_server/Packages/Crypto-1.1.0/Sources/Hash/Random.swift": [543137040, 0]

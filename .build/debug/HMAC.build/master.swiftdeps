@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "e8c372ab4a99736216606d9eb2a6fb78"
+build_time: [543137225, 248752000]
+inputs:
+  "/Users/oslo/code/swift_vapor_server/Packages/Crypto-1.1.0/Sources/HMAC/HMAC.swift": [543137040, 0]
+  "/Users/oslo/code/swift_vapor_server/Packages/Crypto-1.1.0/Sources/HMAC/Method.swift": [543137040, 0]

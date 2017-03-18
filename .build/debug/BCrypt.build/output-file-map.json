@@ -1,0 +1,17 @@
+{
+  "": {
+    "swift-dependencies": "/Users/oslo/code/swift_vapor_server/.build/debug/BCrypt.build/master.swiftdeps"
+  },
+  "/Users/oslo/code/swift_vapor_server/Packages/Crypto-1.1.0/Sources/BCrypt/BCrypt+Deprecated.swift": {
+    "dependencies": "/Users/oslo/code/swift_vapor_server/.build/debug/BCrypt.build/BCrypt+Deprecated.d",
+    "object": "/Users/oslo/code/swift_vapor_server/.build/debug/BCrypt.build/BCrypt+Deprecated.swift.o",
+    "swiftmodule": "/Users/oslo/code/swift_vapor_server/.build/debug/BCrypt.build/BCrypt+Deprecated~partial.swiftmodule",
+    "swift-dependencies": "/Users/oslo/code/swift_vapor_server/.build/debug/BCrypt.build/BCrypt+Deprecated.swiftdeps"
+  },
+  "/Users/oslo/code/swift_vapor_server/Packages/Crypto-1.1.0/Sources/BCrypt/BCrypt.swift": {
+    "dependencies": "/Users/oslo/code/swift_vapor_server/.build/debug/BCrypt.build/BCrypt.d",
+    "object": "/Users/oslo/code/swift_vapor_server/.build/debug/BCrypt.build/BCrypt.swift.o",
+    "swiftmodule": "/Users/oslo/code/swift_vapor_server/.build/debug/BCrypt.build/BCrypt~partial.swiftmodule",
+    "swift-dependencies": "/Users/oslo/code/swift_vapor_server/.build/debug/BCrypt.build/BCrypt.swiftdeps"
+  }
+}

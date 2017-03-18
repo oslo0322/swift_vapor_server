@@ -1,0 +1,17 @@
+{
+  "": {
+    "swift-dependencies": "/Users/oslo/code/swift_vapor_server/.build/debug/PathIndexable.build/master.swiftdeps"
+  },
+  "/Users/oslo/code/swift_vapor_server/Packages/PathIndexable-1.0.0/Sources/PathIndexable/PathIndexable+Subscripting.swift": {
+    "dependencies": "/Users/oslo/code/swift_vapor_server/.build/debug/PathIndexable.build/PathIndexable+Subscripting.d",
+    "object": "/Users/oslo/code/swift_vapor_server/.build/debug/PathIndexable.build/PathIndexable+Subscripting.swift.o",
+    "swiftmodule": "/Users/oslo/code/swift_vapor_server/.build/debug/PathIndexable.build/PathIndexable+Subscripting~partial.swiftmodule",
+    "swift-dependencies": "/Users/oslo/code/swift_vapor_server/.build/debug/PathIndexable.build/PathIndexable+Subscripting.swiftdeps"
+  },
+  "/Users/oslo/code/swift_vapor_server/Packages/PathIndexable-1.0.0/Sources/PathIndexable/PathIndexable.swift": {
+    "dependencies": "/Users/oslo/code/swift_vapor_server/.build/debug/PathIndexable.build/PathIndexable.d",
+    "object": "/Users/oslo/code/swift_vapor_server/.build/debug/PathIndexable.build/PathIndexable.swift.o",
+    "swiftmodule": "/Users/oslo/code/swift_vapor_server/.build/debug/PathIndexable.build/PathIndexable~partial.swiftmodule",
+    "swift-dependencies": "/Users/oslo/code/swift_vapor_server/.build/debug/PathIndexable.build/PathIndexable.swiftdeps"
+  }
+}

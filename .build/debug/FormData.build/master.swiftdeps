@@ -1,0 +1,8 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "e8c22c923127aa5e3cd771c5d35bd179"
+build_time: [543137231, 238646000]
+inputs:
+  "/Users/oslo/code/swift_vapor_server/Packages/Multipart-1.0.2/Sources/FormData/ContentDispositionParser.swift": [543137202, 0]
+  "/Users/oslo/code/swift_vapor_server/Packages/Multipart-1.0.2/Sources/FormData/Field.swift": [543137202, 0]
+  "/Users/oslo/code/swift_vapor_server/Packages/Multipart-1.0.2/Sources/FormData/Parser.swift": [543137202, 0]
+  "/Users/oslo/code/swift_vapor_server/Packages/Multipart-1.0.2/Sources/FormData/Serializer.swift": [543137202, 0]

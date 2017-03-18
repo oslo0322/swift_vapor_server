@@ -1,0 +1,23 @@
+{
+  "": {
+    "swift-dependencies": "/Users/oslo/code/swift_vapor_server/.build/debug/App.build/master.swiftdeps"
+  },
+  "/Users/oslo/code/swift_vapor_server/Sources/App/main.swift": {
+    "dependencies": "/Users/oslo/code/swift_vapor_server/.build/debug/App.build/main.d",
+    "object": "/Users/oslo/code/swift_vapor_server/.build/debug/App.build/main.swift.o",
+    "swiftmodule": "/Users/oslo/code/swift_vapor_server/.build/debug/App.build/main~partial.swiftmodule",
+    "swift-dependencies": "/Users/oslo/code/swift_vapor_server/.build/debug/App.build/main.swiftdeps"
+  },
+  "/Users/oslo/code/swift_vapor_server/Sources/App/Controllers/PostController.swift": {
+    "dependencies": "/Users/oslo/code/swift_vapor_server/.build/debug/App.build/PostController.d",
+    "object": "/Users/oslo/code/swift_vapor_server/.build/debug/App.build/Controllers/PostController.swift.o",
+    "swiftmodule": "/Users/oslo/code/swift_vapor_server/.build/debug/App.build/PostController~partial.swiftmodule",
+    "swift-dependencies": "/Users/oslo/code/swift_vapor_server/.build/debug/App.build/PostController.swiftdeps"
+  },
+  "/Users/oslo/code/swift_vapor_server/Sources/App/Models/Post.swift": {
+    "dependencies": "/Users/oslo/code/swift_vapor_server/.build/debug/App.build/Post.d",
+    "object": "/Users/oslo/code/swift_vapor_server/.build/debug/App.build/Models/Post.swift.o",
+    "swiftmodule": "/Users/oslo/code/swift_vapor_server/.build/debug/App.build/Post~partial.swiftmodule",
+    "swift-dependencies": "/Users/oslo/code/swift_vapor_server/.build/debug/App.build/Post.swiftdeps"
+  }
+}

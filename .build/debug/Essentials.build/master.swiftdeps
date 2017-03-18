@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "9d0f6d8d8171f16fe6ceb3f87885110f"
+build_time: [543137220, 644080000]
+inputs:
+  "/Users/oslo/code/swift_vapor_server/Packages/Crypto-1.1.0/Sources/Essentials/ByteStream.swift": [543137040, 0]
+  "/Users/oslo/code/swift_vapor_server/Packages/Crypto-1.1.0/Sources/Essentials/Helpers.swift": [543137040, 0]

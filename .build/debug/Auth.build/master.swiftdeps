@@ -1,0 +1,19 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "1a86ef6ddb6287d2de8789045270dc9f"
+build_time: [543137235, 603534000]
+inputs:
+  "/Users/oslo/code/swift_vapor_server/Packages/Vapor-1.5.12/Sources/Auth/Authentication/AuthError.swift": [543137033, 0]
+  "/Users/oslo/code/swift_vapor_server/Packages/Vapor-1.5.12/Sources/Auth/Authentication/AuthMiddleware.swift": [543137033, 0]
+  "/Users/oslo/code/swift_vapor_server/Packages/Vapor-1.5.12/Sources/Auth/Authentication/CacheSessionManager.swift": [543137033, 0]
+  "/Users/oslo/code/swift_vapor_server/Packages/Vapor-1.5.12/Sources/Auth/Authentication/LoginRedirectMiddleware.swift": [543137033, 0]
+  "/Users/oslo/code/swift_vapor_server/Packages/Vapor-1.5.12/Sources/Auth/Authentication/ProtectMiddleware.swift": [543137033, 0]
+  "/Users/oslo/code/swift_vapor_server/Packages/Vapor-1.5.12/Sources/Auth/Authentication/Request+Subject.swift": [543137033, 0]
+  "/Users/oslo/code/swift_vapor_server/Packages/Vapor-1.5.12/Sources/Auth/Authentication/Authenticator/Authenticator.swift": [543137033, 0]
+  "/Users/oslo/code/swift_vapor_server/Packages/Vapor-1.5.12/Sources/Auth/Authentication/Authenticator/Realm.swift": [543137033, 0]
+  "/Users/oslo/code/swift_vapor_server/Packages/Vapor-1.5.12/Sources/Auth/Authentication/Authenticator/User+Authenticator.swift": [543137033, 0]
+  "/Users/oslo/code/swift_vapor_server/Packages/Vapor-1.5.12/Sources/Auth/Authentication/Credentials/Identifier.swift": [543137033, 0]
+  "/Users/oslo/code/swift_vapor_server/Packages/Vapor-1.5.12/Sources/Auth/Authentication/Header/Authorization.swift": [543137033, 0]
+  "/Users/oslo/code/swift_vapor_server/Packages/Vapor-1.5.12/Sources/Auth/Authentication/Header/Basic.swift": [543137033, 0]
+  "/Users/oslo/code/swift_vapor_server/Packages/Vapor-1.5.12/Sources/Auth/Authentication/Header/Bearer.swift": [543137033, 0]
+  "/Users/oslo/code/swift_vapor_server/Packages/Vapor-1.5.12/Sources/Auth/Authentication/Header/Request+Authorization.swift": [543137033, 0]
+  "/Users/oslo/code/swift_vapor_server/Packages/Vapor-1.5.12/Sources/Auth/Authentication/User/User.swift": [543137033, 0]

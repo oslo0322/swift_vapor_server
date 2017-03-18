@@ -1,0 +1,11 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "2e7ce0fb5b4af3c4d47d28786898907a"
+build_time: [543137220, 644080000]
+inputs:
+  "/Users/oslo/code/swift_vapor_server/Packages/TLS-1.1.2/Sources/TLS/Certificates.swift": [543137148, 0]
+  "/Users/oslo/code/swift_vapor_server/Packages/TLS-1.1.2/Sources/TLS/Config.swift": [543137148, 0]
+  "/Users/oslo/code/swift_vapor_server/Packages/TLS-1.1.2/Sources/TLS/Context.swift": [543137148, 0]
+  "/Users/oslo/code/swift_vapor_server/Packages/TLS-1.1.2/Sources/TLS/Error.swift": [543137148, 0]
+  "/Users/oslo/code/swift_vapor_server/Packages/TLS-1.1.2/Sources/TLS/Mode.swift": [543137146, 0]
+  "/Users/oslo/code/swift_vapor_server/Packages/TLS-1.1.2/Sources/TLS/Socket.swift": [543137148, 0]
+  "/Users/oslo/code/swift_vapor_server/Packages/TLS-1.1.2/Sources/TLS/Utilities.swift": [543137148, 0]

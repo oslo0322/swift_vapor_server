@@ -1,0 +1,13 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "42e5008b3773d5e2977fa7a2f1de54ed"
+build_time: [543137226, 284576000]
+inputs:
+  "/Users/oslo/code/swift_vapor_server/Packages/Engine-1.3.12/Sources/Transport/Streams/FoundationStream.swift": [543137142, 0]
+  "/Users/oslo/code/swift_vapor_server/Packages/Engine-1.3.12/Sources/Transport/Streams/Socks+Stream.swift": [543137142, 0]
+  "/Users/oslo/code/swift_vapor_server/Packages/Engine-1.3.12/Sources/Transport/Streams/Stream.swift": [543137142, 0]
+  "/Users/oslo/code/swift_vapor_server/Packages/Engine-1.3.12/Sources/Transport/Streams/StreamBuffer.swift": [543137142, 0]
+  "/Users/oslo/code/swift_vapor_server/Packages/Engine-1.3.12/Sources/Transport/Streams/Watchable.swift": [543137142, 0]
+  "/Users/oslo/code/swift_vapor_server/Packages/Engine-1.3.12/Sources/Transport/TransferProtocols/TransferProtocols.swift": [543137128, 0]
+  "/Users/oslo/code/swift_vapor_server/Packages/Engine-1.3.12/Sources/Transport/Streams/ProgramStream/ClientStream.swift": [543137128, 0]
+  "/Users/oslo/code/swift_vapor_server/Packages/Engine-1.3.12/Sources/Transport/Streams/ProgramStream/ProgramStream.swift": [543137142, 0]
+  "/Users/oslo/code/swift_vapor_server/Packages/Engine-1.3.12/Sources/Transport/Streams/ProgramStream/ServerStream.swift": [543137142, 0]

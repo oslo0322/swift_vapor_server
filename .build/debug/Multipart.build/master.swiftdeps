@@ -1,0 +1,10 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "46f8ec8ceabac1c6b99ef03ddb8e9ffc"
+build_time: [543137230, 386022000]
+inputs:
+  "/Users/oslo/code/swift_vapor_server/Packages/Multipart-1.0.2/Sources/Multipart/BoundaryParser.swift": [543137202, 0]
+  "/Users/oslo/code/swift_vapor_server/Packages/Multipart-1.0.2/Sources/Multipart/HeaderParser.swift": [543137202, 0]
+  "/Users/oslo/code/swift_vapor_server/Packages/Multipart-1.0.2/Sources/Multipart/Multipart+BytesConvertible.swift": [543137201, 0]
+  "/Users/oslo/code/swift_vapor_server/Packages/Multipart-1.0.2/Sources/Multipart/Parser.swift": [543137202, 0]
+  "/Users/oslo/code/swift_vapor_server/Packages/Multipart-1.0.2/Sources/Multipart/Part.swift": [543137202, 0]
+  "/Users/oslo/code/swift_vapor_server/Packages/Multipart-1.0.2/Sources/Multipart/Serializer.swift": [543137202, 0]

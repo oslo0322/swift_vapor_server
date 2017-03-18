@@ -1,0 +1,9 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "7e43c83a2941beaf235fc98094339a10"
+build_time: [543137232, 880349000]
+inputs:
+  "/Users/oslo/code/swift_vapor_server/Packages/Routing-1.1.0/Sources/HTTPRouting/Request+Routing.swift": [543137199, 0]
+  "/Users/oslo/code/swift_vapor_server/Packages/Routing-1.1.0/Sources/HTTPRouting/RouteBuilder+HTTP.swift": [543137199, 0]
+  "/Users/oslo/code/swift_vapor_server/Packages/Routing-1.1.0/Sources/HTTPRouting/Router+HTTP.swift": [543137199, 0]
+  "/Users/oslo/code/swift_vapor_server/Packages/Routing-1.1.0/Sources/HTTPRouting/Routing+HTTP.swift": [543137199, 0]
+  "/Users/oslo/code/swift_vapor_server/Packages/Routing-1.1.0/Sources/HTTPRouting/Utilities.swift": [543137199, 0]

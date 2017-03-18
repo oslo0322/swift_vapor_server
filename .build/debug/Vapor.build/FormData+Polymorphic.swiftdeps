@@ -1,0 +1,681 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+provides-nominal:
+- "V8FormData5Field"
+provides-member:
+- ["V8FormData5Field", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "Polymorphic"
+- "Double"
+- "Float"
+- "Bool"
+- "Int"
+- "FormData"
+- "UInt"
+- "String"
+depends-member:
+- !private ["Ps9AnyObject", "array"]
+- !private ["Ps9AnyObject", "bool"]
+- !private ["Ps9AnyObject", "double"]
+- !private ["Ps9AnyObject", "float"]
+- !private ["Ps9AnyObject", "int"]
+- !private ["Ps9AnyObject", "isNull"]
+- !private ["Ps9AnyObject", "object"]
+- !private ["Ps9AnyObject", "uint"]
+- !private ["Sa", "Iterator"]
+- !private ["Sa", "_Element"]
+- ["Sa", "deinit"]
+- !private ["Sa", "string"]
+- !private ["Ps23BidirectionalCollection", "Iterator"]
+- !private ["Ps23BidirectionalCollection", "_Element"]
+- !private ["Ps23BidirectionalCollection", "string"]
+- !private ["Ps22BidirectionalIndexable", "Iterator"]
+- !private ["Ps22BidirectionalIndexable", "_Element"]
+- !private ["Ps22BidirectionalIndexable", "string"]
+- !private ["P4HTTP17BodyRepresentable", "array"]
+- !private ["P4HTTP17BodyRepresentable", "bool"]
+- !private ["P4HTTP17BodyRepresentable", "double"]
+- !private ["P4HTTP17BodyRepresentable", "float"]
+- !private ["P4HTTP17BodyRepresentable", "int"]
+- !private ["P4HTTP17BodyRepresentable", "isNull"]
+- !private ["P4HTTP17BodyRepresentable", "object"]
+- !private ["P4HTTP17BodyRepresentable", "uint"]
+- ["Sb", "deinit"]
+- !private ["P4Core16BytesConvertible", "array"]
+- !private ["P4Core16BytesConvertible", "bool"]
+- !private ["P4Core16BytesConvertible", "double"]
+- !private ["P4Core16BytesConvertible", "float"]
+- !private ["P4Core16BytesConvertible", "int"]
+- !private ["P4Core16BytesConvertible", "isNull"]
+- !private ["P4Core16BytesConvertible", "object"]
+- !private ["P4Core16BytesConvertible", "uint"]
+- !private ["P4Core18BytesInitializable", "array"]
+- !private ["P4Core18BytesInitializable", "bool"]
+- !private ["P4Core18BytesInitializable", "double"]
+- !private ["P4Core18BytesInitializable", "float"]
+- !private ["P4Core18BytesInitializable", "int"]
+- !private ["P4Core18BytesInitializable", "isNull"]
+- !private ["P4Core18BytesInitializable", "object"]
+- !private ["P4Core18BytesInitializable", "uint"]
+- !private ["P4Core18BytesRepresentable", "array"]
+- !private ["P4Core18BytesRepresentable", "bool"]
+- !private ["P4Core18BytesRepresentable", "double"]
+- !private ["P4Core18BytesRepresentable", "float"]
+- !private ["P4Core18BytesRepresentable", "int"]
+- !private ["P4Core18BytesRepresentable", "isNull"]
+- !private ["P4Core18BytesRepresentable", "object"]
+- !private ["P4Core18BytesRepresentable", "uint"]
+- !private ["Ps7CVarArg", "Iterator"]
+- !private ["Ps7CVarArg", "_Element"]
+- !private ["Ps7CVarArg", "array"]
+- !private ["Ps7CVarArg", "bool"]
+- !private ["Ps7CVarArg", "double"]
+- !private ["Ps7CVarArg", "float"]
+- !private ["Ps7CVarArg", "int"]
+- !private ["Ps7CVarArg", "isNull"]
+- !private ["Ps7CVarArg", "object"]
+- !private ["Ps7CVarArg", "string"]
+- !private ["Ps7CVarArg", "uint"]
+- !private ["Ps10Collection", "Iterator"]
+- !private ["Ps10Collection", "_Element"]
+- !private ["Ps10Collection", "string"]
+- !private ["Ps10Comparable", "array"]
+- !private ["Ps10Comparable", "bool"]
+- !private ["Ps10Comparable", "double"]
+- !private ["Ps10Comparable", "float"]
+- !private ["Ps10Comparable", "int"]
+- !private ["Ps10Comparable", "isNull"]
+- !private ["Ps10Comparable", "object"]
+- !private ["Ps10Comparable", "uint"]
+- !private ["P4Node7Context", "Iterator"]
+- !private ["P4Node7Context", "_Element"]
+- !private ["P4Node7Context", "string"]
+- !private ["P5Vapor9Countable", "Iterator"]
+- !private ["P5Vapor9Countable", "_Element"]
+- !private ["P5Vapor9Countable", "array"]
+- !private ["P5Vapor9Countable", "bool"]
+- !private ["P5Vapor9Countable", "double"]
+- !private ["P5Vapor9Countable", "float"]
+- !private ["P5Vapor9Countable", "int"]
+- !private ["P5Vapor9Countable", "isNull"]
+- !private ["P5Vapor9Countable", "object"]
+- !private ["P5Vapor9Countable", "string"]
+- !private ["P5Vapor9Countable", "uint"]
+- !private ["Ps28CustomDebugStringConvertible", "Iterator"]
+- !private ["Ps28CustomDebugStringConvertible", "_Element"]
+- !private ["Ps28CustomDebugStringConvertible", "array"]
+- !private ["Ps28CustomDebugStringConvertible", "bool"]
+- !private ["Ps28CustomDebugStringConvertible", "double"]
+- !private ["Ps28CustomDebugStringConvertible", "float"]
+- !private ["Ps28CustomDebugStringConvertible", "int"]
+- !private ["Ps28CustomDebugStringConvertible", "isNull"]
+- !private ["Ps28CustomDebugStringConvertible", "object"]
+- !private ["Ps28CustomDebugStringConvertible", "string"]
+- !private ["Ps28CustomDebugStringConvertible", "uint"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "array"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "bool"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "double"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "float"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "int"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "isNull"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "object"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "uint"]
+- !private ["Ps17CustomReflectable", "Iterator"]
+- !private ["Ps17CustomReflectable", "_Element"]
+- !private ["Ps17CustomReflectable", "array"]
+- !private ["Ps17CustomReflectable", "bool"]
+- !private ["Ps17CustomReflectable", "double"]
+- !private ["Ps17CustomReflectable", "float"]
+- !private ["Ps17CustomReflectable", "int"]
+- !private ["Ps17CustomReflectable", "isNull"]
+- !private ["Ps17CustomReflectable", "object"]
+- !private ["Ps17CustomReflectable", "string"]
+- !private ["Ps17CustomReflectable", "uint"]
+- !private ["Ps23CustomStringConvertible", "Iterator"]
+- !private ["Ps23CustomStringConvertible", "_Element"]
+- !private ["Ps23CustomStringConvertible", "array"]
+- !private ["Ps23CustomStringConvertible", "bool"]
+- !private ["Ps23CustomStringConvertible", "double"]
+- !private ["Ps23CustomStringConvertible", "float"]
+- !private ["Ps23CustomStringConvertible", "int"]
+- !private ["Ps23CustomStringConvertible", "isNull"]
+- !private ["Ps23CustomStringConvertible", "object"]
+- !private ["Ps23CustomStringConvertible", "string"]
+- !private ["Ps23CustomStringConvertible", "uint"]
+- !private ["Ps9Equatable", "array"]
+- !private ["Ps9Equatable", "bool"]
+- !private ["Ps9Equatable", "double"]
+- !private ["Ps9Equatable", "float"]
+- !private ["Ps9Equatable", "int"]
+- !private ["Ps9Equatable", "isNull"]
+- !private ["Ps9Equatable", "object"]
+- !private ["Ps9Equatable", "uint"]
+- !private ["Ps25ExpressibleByArrayLiteral", "Iterator"]
+- !private ["Ps25ExpressibleByArrayLiteral", "_Element"]
+- !private ["Ps25ExpressibleByArrayLiteral", "string"]
+- !private ["Ps43ExpressibleByExtendedGraphemeClusterLiteral", "array"]
+- !private ["Ps43ExpressibleByExtendedGraphemeClusterLiteral", "bool"]
+- !private ["Ps43ExpressibleByExtendedGraphemeClusterLiteral", "double"]
+- !private ["Ps43ExpressibleByExtendedGraphemeClusterLiteral", "float"]
+- !private ["Ps43ExpressibleByExtendedGraphemeClusterLiteral", "int"]
+- !private ["Ps43ExpressibleByExtendedGraphemeClusterLiteral", "isNull"]
+- !private ["Ps43ExpressibleByExtendedGraphemeClusterLiteral", "object"]
+- !private ["Ps43ExpressibleByExtendedGraphemeClusterLiteral", "uint"]
+- !private ["Ps32ExpressibleByStringInterpolation", "array"]
+- !private ["Ps32ExpressibleByStringInterpolation", "bool"]
+- !private ["Ps32ExpressibleByStringInterpolation", "double"]
+- !private ["Ps32ExpressibleByStringInterpolation", "float"]
+- !private ["Ps32ExpressibleByStringInterpolation", "int"]
+- !private ["Ps32ExpressibleByStringInterpolation", "isNull"]
+- !private ["Ps32ExpressibleByStringInterpolation", "object"]
+- !private ["Ps32ExpressibleByStringInterpolation", "uint"]
+- !private ["Ps26ExpressibleByStringLiteral", "array"]
+- !private ["Ps26ExpressibleByStringLiteral", "bool"]
+- !private ["Ps26ExpressibleByStringLiteral", "double"]
+- !private ["Ps26ExpressibleByStringLiteral", "float"]
+- !private ["Ps26ExpressibleByStringLiteral", "int"]
+- !private ["Ps26ExpressibleByStringLiteral", "isNull"]
+- !private ["Ps26ExpressibleByStringLiteral", "object"]
+- !private ["Ps26ExpressibleByStringLiteral", "uint"]
+- !private ["Ps33ExpressibleByUnicodeScalarLiteral", "array"]
+- !private ["Ps33ExpressibleByUnicodeScalarLiteral", "bool"]
+- !private ["Ps33ExpressibleByUnicodeScalarLiteral", "double"]
+- !private ["Ps33ExpressibleByUnicodeScalarLiteral", "float"]
+- !private ["Ps33ExpressibleByUnicodeScalarLiteral", "int"]
+- !private ["Ps33ExpressibleByUnicodeScalarLiteral", "isNull"]
+- !private ["Ps33ExpressibleByUnicodeScalarLiteral", "object"]
+- !private ["Ps33ExpressibleByUnicodeScalarLiteral", "uint"]
+- ["V8FormData5Field", "Bool"]
+- ["V8FormData5Field", "Double"]
+- ["V8FormData5Field", "Float"]
+- ["V8FormData5Field", "Int"]
+- ["V8FormData5Field", "Polymorphic"]
+- ["V8FormData5Field", "String"]
+- ["V8FormData5Field", "UInt"]
+- ["V8FormData5Field", "array"]
+- ["V8FormData5Field", "bool"]
+- ["V8FormData5Field", "deinit"]
+- ["V8FormData5Field", "double"]
+- ["V8FormData5Field", "float"]
+- ["V8FormData5Field", "int"]
+- ["V8FormData5Field", "isNull"]
+- ["V8FormData5Field", "object"]
+- !private ["V8FormData5Field", "part"]
+- ["V8FormData5Field", "string"]
+- ["V8FormData5Field", "uint"]
+- !private ["Ps8Hashable", "array"]
+- !private ["Ps8Hashable", "bool"]
+- !private ["Ps8Hashable", "double"]
+- !private ["Ps8Hashable", "float"]
+- !private ["Ps8Hashable", "int"]
+- !private ["Ps8Hashable", "isNull"]
+- !private ["Ps8Hashable", "object"]
+- !private ["Ps8Hashable", "uint"]
+- !private ["Ps9Indexable", "Iterator"]
+- !private ["Ps9Indexable", "_Element"]
+- !private ["Ps9Indexable", "string"]
+- !private ["Ps13IndexableBase", "Iterator"]
+- !private ["Ps13IndexableBase", "_Element"]
+- !private ["Ps13IndexableBase", "string"]
+- !private ["Vs16IndexingIterator", "Element"]
+- !private ["Ps16IteratorProtocol", "Element"]
+- !private ["Ps25LosslessStringConvertible", "array"]
+- !private ["Ps25LosslessStringConvertible", "bool"]
+- !private ["Ps25LosslessStringConvertible", "double"]
+- !private ["Ps25LosslessStringConvertible", "float"]
+- !private ["Ps25LosslessStringConvertible", "int"]
+- !private ["Ps25LosslessStringConvertible", "isNull"]
+- !private ["Ps25LosslessStringConvertible", "object"]
+- !private ["Ps25LosslessStringConvertible", "uint"]
+- !private ["Ps10MirrorPath", "array"]
+- !private ["Ps10MirrorPath", "bool"]
+- !private ["Ps10MirrorPath", "double"]
+- !private ["Ps10MirrorPath", "float"]
+- !private ["Ps10MirrorPath", "int"]
+- !private ["Ps10MirrorPath", "isNull"]
+- !private ["Ps10MirrorPath", "object"]
+- !private ["Ps10MirrorPath", "uint"]
+- !private ["Ps17MutableCollection", "Iterator"]
+- !private ["Ps17MutableCollection", "_Element"]
+- !private ["Ps17MutableCollection", "string"]
+- !private ["Ps16MutableIndexable", "Iterator"]
+- !private ["Ps16MutableIndexable", "_Element"]
+- !private ["Ps16MutableIndexable", "string"]
+- !private ["PSo8NSCoding", "array"]
+- !private ["PSo8NSCoding", "bool"]
+- !private ["PSo8NSCoding", "double"]
+- !private ["PSo8NSCoding", "float"]
+- !private ["PSo8NSCoding", "int"]
+- !private ["PSo8NSCoding", "isNull"]
+- !private ["PSo8NSCoding", "object"]
+- !private ["PSo8NSCoding", "uint"]
+- !private ["PSo9NSCopying", "array"]
+- !private ["PSo9NSCopying", "bool"]
+- !private ["PSo9NSCopying", "double"]
+- !private ["PSo9NSCopying", "float"]
+- !private ["PSo9NSCopying", "int"]
+- !private ["PSo9NSCopying", "isNull"]
+- !private ["PSo9NSCopying", "object"]
+- !private ["PSo9NSCopying", "uint"]
+- !private ["PSo16NSMutableCopying", "array"]
+- !private ["PSo16NSMutableCopying", "bool"]
+- !private ["PSo16NSMutableCopying", "double"]
+- !private ["PSo16NSMutableCopying", "float"]
+- !private ["PSo16NSMutableCopying", "int"]
+- !private ["PSo16NSMutableCopying", "isNull"]
+- !private ["PSo16NSMutableCopying", "object"]
+- !private ["PSo16NSMutableCopying", "uint"]
+- !private ["CSo8NSObject", "array"]
+- !private ["CSo8NSObject", "bool"]
+- !private ["CSo8NSObject", "double"]
+- !private ["CSo8NSObject", "float"]
+- !private ["CSo8NSObject", "int"]
+- !private ["CSo8NSObject", "isNull"]
+- !private ["CSo8NSObject", "object"]
+- !private ["CSo8NSObject", "uint"]
+- !private ["PSo16NSObjectProtocol", "array"]
+- !private ["PSo16NSObjectProtocol", "bool"]
+- !private ["PSo16NSObjectProtocol", "double"]
+- !private ["PSo16NSObjectProtocol", "float"]
+- !private ["PSo16NSObjectProtocol", "int"]
+- !private ["PSo16NSObjectProtocol", "isNull"]
+- !private ["PSo16NSObjectProtocol", "object"]
+- !private ["PSo16NSObjectProtocol", "uint"]
+- !private ["PSo14NSSecureCoding", "array"]
+- !private ["PSo14NSSecureCoding", "bool"]
+- !private ["PSo14NSSecureCoding", "double"]
+- !private ["PSo14NSSecureCoding", "float"]
+- !private ["PSo14NSSecureCoding", "int"]
+- !private ["PSo14NSSecureCoding", "isNull"]
+- !private ["PSo14NSSecureCoding", "object"]
+- !private ["PSo14NSSecureCoding", "uint"]
+- !private ["CSo8NSString", "array"]
+- !private ["CSo8NSString", "bool"]
+- !private ["CSo8NSString", "double"]
+- !private ["CSo8NSString", "float"]
+- !private ["CSo8NSString", "int"]
+- !private ["CSo8NSString", "isNull"]
+- !private ["CSo8NSString", "object"]
+- !private ["CSo8NSString", "uint"]
+- !private ["P4Node15NodeConvertible", "array"]
+- !private ["P4Node15NodeConvertible", "bool"]
+- !private ["P4Node15NodeConvertible", "double"]
+- !private ["P4Node15NodeConvertible", "float"]
+- !private ["P4Node15NodeConvertible", "int"]
+- !private ["P4Node15NodeConvertible", "isNull"]
+- !private ["P4Node15NodeConvertible", "object"]
+- !private ["P4Node15NodeConvertible", "uint"]
+- !private ["P4Node17NodeInitializable", "array"]
+- !private ["P4Node17NodeInitializable", "bool"]
+- !private ["P4Node17NodeInitializable", "double"]
+- !private ["P4Node17NodeInitializable", "float"]
+- !private ["P4Node17NodeInitializable", "int"]
+- !private ["P4Node17NodeInitializable", "isNull"]
+- !private ["P4Node17NodeInitializable", "object"]
+- !private ["P4Node17NodeInitializable", "uint"]
+- !private ["P4Node17NodeRepresentable", "array"]
+- !private ["P4Node17NodeRepresentable", "bool"]
+- !private ["P4Node17NodeRepresentable", "double"]
+- !private ["P4Node17NodeRepresentable", "float"]
+- !private ["P4Node17NodeRepresentable", "int"]
+- !private ["P4Node17NodeRepresentable", "isNull"]
+- !private ["P4Node17NodeRepresentable", "object"]
+- !private ["P4Node17NodeRepresentable", "uint"]
+- ["Sq", "deinit"]
+- !private ["V9Multipart4Part", "body"]
+- ["V9Multipart4Part", "deinit"]
+- !private ["P13PathIndexable9PathIndex", "array"]
+- !private ["P13PathIndexable9PathIndex", "bool"]
+- !private ["P13PathIndexable9PathIndex", "double"]
+- !private ["P13PathIndexable9PathIndex", "float"]
+- !private ["P13PathIndexable9PathIndex", "int"]
+- !private ["P13PathIndexable9PathIndex", "isNull"]
+- !private ["P13PathIndexable9PathIndex", "object"]
+- !private ["P13PathIndexable9PathIndex", "uint"]
+- ["P11Polymorphic11Polymorphic", "array"]
+- ["P11Polymorphic11Polymorphic", "bool"]
+- ["P11Polymorphic11Polymorphic", "double"]
+- ["P11Polymorphic11Polymorphic", "float"]
+- ["P11Polymorphic11Polymorphic", "int"]
+- ["P11Polymorphic11Polymorphic", "isNull"]
+- ["P11Polymorphic11Polymorphic", "object"]
+- !private ["P11Polymorphic11Polymorphic", "part"]
+- ["P11Polymorphic11Polymorphic", "string"]
+- ["P11Polymorphic11Polymorphic", "uint"]
+- ["P11Polymorphic11Polymorphic", ""]
+- !private ["P5Vapor24PolymorphicInitializable", "array"]
+- !private ["P5Vapor24PolymorphicInitializable", "bool"]
+- !private ["P5Vapor24PolymorphicInitializable", "double"]
+- !private ["P5Vapor24PolymorphicInitializable", "float"]
+- !private ["P5Vapor24PolymorphicInitializable", "int"]
+- !private ["P5Vapor24PolymorphicInitializable", "isNull"]
+- !private ["P5Vapor24PolymorphicInitializable", "object"]
+- !private ["P5Vapor24PolymorphicInitializable", "uint"]
+- !private ["Ps22RandomAccessCollection", "Iterator"]
+- !private ["Ps22RandomAccessCollection", "_Element"]
+- !private ["Ps22RandomAccessCollection", "string"]
+- !private ["Ps21RandomAccessIndexable", "Iterator"]
+- !private ["Ps21RandomAccessIndexable", "_Element"]
+- !private ["Ps21RandomAccessIndexable", "string"]
+- !private ["Ps26RangeReplaceableCollection", "Iterator"]
+- !private ["Ps26RangeReplaceableCollection", "_Element"]
+- !private ["Ps26RangeReplaceableCollection", "string"]
+- !private ["Ps25RangeReplaceableIndexable", "Iterator"]
+- !private ["Ps25RangeReplaceableIndexable", "_Element"]
+- !private ["Ps25RangeReplaceableIndexable", "string"]
+- !private ["P5Vapor23RequestContentSubscript", "array"]
+- !private ["P5Vapor23RequestContentSubscript", "bool"]
+- !private ["P5Vapor23RequestContentSubscript", "double"]
+- !private ["P5Vapor23RequestContentSubscript", "float"]
+- !private ["P5Vapor23RequestContentSubscript", "int"]
+- !private ["P5Vapor23RequestContentSubscript", "isNull"]
+- !private ["P5Vapor23RequestContentSubscript", "object"]
+- !private ["P5Vapor23RequestContentSubscript", "uint"]
+- !private ["P4HTTP21ResponseRepresentable", "array"]
+- !private ["P4HTTP21ResponseRepresentable", "bool"]
+- !private ["P4HTTP21ResponseRepresentable", "double"]
+- !private ["P4HTTP21ResponseRepresentable", "float"]
+- !private ["P4HTTP21ResponseRepresentable", "int"]
+- !private ["P4HTTP21ResponseRepresentable", "isNull"]
+- !private ["P4HTTP21ResponseRepresentable", "object"]
+- !private ["P4HTTP21ResponseRepresentable", "uint"]
+- !private ["Ps8Sequence", "Element"]
+- !private ["Ps8Sequence", "Iterator"]
+- !private ["Ps8Sequence", "_Element"]
+- !private ["Ps8Sequence", "string"]
+- !private ["SS", "array"]
+- !private ["SS", "bool"]
+- ["SS", "deinit"]
+- !private ["SS", "double"]
+- !private ["SS", "float"]
+- !private ["SS", "int"]
+- !private ["SS", "isNull"]
+- !private ["SS", "object"]
+- !private ["SS", "uint"]
+- !private ["P15TypeSafeRouting19StringInitializable", "array"]
+- !private ["P15TypeSafeRouting19StringInitializable", "bool"]
+- !private ["P15TypeSafeRouting19StringInitializable", "double"]
+- !private ["P15TypeSafeRouting19StringInitializable", "float"]
+- !private ["P15TypeSafeRouting19StringInitializable", "int"]
+- !private ["P15TypeSafeRouting19StringInitializable", "isNull"]
+- !private ["P15TypeSafeRouting19StringInitializable", "object"]
+- !private ["P15TypeSafeRouting19StringInitializable", "uint"]
+- !private ["Ps16TextOutputStream", "array"]
+- !private ["Ps16TextOutputStream", "bool"]
+- !private ["Ps16TextOutputStream", "double"]
+- !private ["Ps16TextOutputStream", "float"]
+- !private ["Ps16TextOutputStream", "int"]
+- !private ["Ps16TextOutputStream", "isNull"]
+- !private ["Ps16TextOutputStream", "object"]
+- !private ["Ps16TextOutputStream", "uint"]
+- !private ["Ps20TextOutputStreamable", "array"]
+- !private ["Ps20TextOutputStreamable", "bool"]
+- !private ["Ps20TextOutputStreamable", "double"]
+- !private ["Ps20TextOutputStreamable", "float"]
+- !private ["Ps20TextOutputStreamable", "int"]
+- !private ["Ps20TextOutputStreamable", "isNull"]
+- !private ["Ps20TextOutputStreamable", "object"]
+- !private ["Ps20TextOutputStreamable", "uint"]
+- !private ["P5Vapor11Validatable", "Iterator"]
+- !private ["P5Vapor11Validatable", "_Element"]
+- !private ["P5Vapor11Validatable", "array"]
+- !private ["P5Vapor11Validatable", "bool"]
+- !private ["P5Vapor11Validatable", "double"]
+- !private ["P5Vapor11Validatable", "float"]
+- !private ["P5Vapor11Validatable", "int"]
+- !private ["P5Vapor11Validatable", "isNull"]
+- !private ["P5Vapor11Validatable", "object"]
+- !private ["P5Vapor11Validatable", "string"]
+- !private ["P5Vapor11Validatable", "uint"]
+- !private ["Ps14_ArrayProtocol", "Iterator"]
+- !private ["Ps14_ArrayProtocol", "_Element"]
+- !private ["Ps14_ArrayProtocol", "string"]
+- !private ["Ps24_DestructorSafeContainer", "Iterator"]
+- !private ["Ps24_DestructorSafeContainer", "_Element"]
+- !private ["Ps24_DestructorSafeContainer", "string"]
+- !private ["Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral", "array"]
+- !private ["Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral", "bool"]
+- !private ["Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral", "double"]
+- !private ["Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral", "float"]
+- !private ["Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral", "int"]
+- !private ["Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral", "isNull"]
+- !private ["Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral", "object"]
+- !private ["Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral", "uint"]
+- !private ["Ps34_ExpressibleByBuiltinStringLiteral", "array"]
+- !private ["Ps34_ExpressibleByBuiltinStringLiteral", "bool"]
+- !private ["Ps34_ExpressibleByBuiltinStringLiteral", "double"]
+- !private ["Ps34_ExpressibleByBuiltinStringLiteral", "float"]
+- !private ["Ps34_ExpressibleByBuiltinStringLiteral", "int"]
+- !private ["Ps34_ExpressibleByBuiltinStringLiteral", "isNull"]
+- !private ["Ps34_ExpressibleByBuiltinStringLiteral", "object"]
+- !private ["Ps34_ExpressibleByBuiltinStringLiteral", "uint"]
+- !private ["Ps39_ExpressibleByBuiltinUTF16StringLiteral", "array"]
+- !private ["Ps39_ExpressibleByBuiltinUTF16StringLiteral", "bool"]
+- !private ["Ps39_ExpressibleByBuiltinUTF16StringLiteral", "double"]
+- !private ["Ps39_ExpressibleByBuiltinUTF16StringLiteral", "float"]
+- !private ["Ps39_ExpressibleByBuiltinUTF16StringLiteral", "int"]
+- !private ["Ps39_ExpressibleByBuiltinUTF16StringLiteral", "isNull"]
+- !private ["Ps39_ExpressibleByBuiltinUTF16StringLiteral", "object"]
+- !private ["Ps39_ExpressibleByBuiltinUTF16StringLiteral", "uint"]
+- !private ["Ps41_ExpressibleByBuiltinUnicodeScalarLiteral", "array"]
+- !private ["Ps41_ExpressibleByBuiltinUnicodeScalarLiteral", "bool"]
+- !private ["Ps41_ExpressibleByBuiltinUnicodeScalarLiteral", "double"]
+- !private ["Ps41_ExpressibleByBuiltinUnicodeScalarLiteral", "float"]
+- !private ["Ps41_ExpressibleByBuiltinUnicodeScalarLiteral", "int"]
+- !private ["Ps41_ExpressibleByBuiltinUnicodeScalarLiteral", "isNull"]
+- !private ["Ps41_ExpressibleByBuiltinUnicodeScalarLiteral", "object"]
+- !private ["Ps41_ExpressibleByBuiltinUnicodeScalarLiteral", "uint"]
+- !private ["Ps35_HasCustomAnyHashableRepresentation", "array"]
+- !private ["Ps35_HasCustomAnyHashableRepresentation", "bool"]
+- !private ["Ps35_HasCustomAnyHashableRepresentation", "double"]
+- !private ["Ps35_HasCustomAnyHashableRepresentation", "float"]
+- !private ["Ps35_HasCustomAnyHashableRepresentation", "int"]
+- !private ["Ps35_HasCustomAnyHashableRepresentation", "isNull"]
+- !private ["Ps35_HasCustomAnyHashableRepresentation", "object"]
+- !private ["Ps35_HasCustomAnyHashableRepresentation", "uint"]
+- !private ["Ps9_Hashable", "array"]
+- !private ["Ps9_Hashable", "bool"]
+- !private ["Ps9_Hashable", "double"]
+- !private ["Ps9_Hashable", "float"]
+- !private ["Ps9_Hashable", "int"]
+- !private ["Ps9_Hashable", "isNull"]
+- !private ["Ps9_Hashable", "object"]
+- !private ["Ps9_Hashable", "uint"]
+- !private ["Ps21_ObjectiveCBridgeable", "Iterator"]
+- !private ["Ps21_ObjectiveCBridgeable", "_Element"]
+- !private ["Ps21_ObjectiveCBridgeable", "array"]
+- !private ["Ps21_ObjectiveCBridgeable", "bool"]
+- !private ["Ps21_ObjectiveCBridgeable", "double"]
+- !private ["Ps21_ObjectiveCBridgeable", "float"]
+- !private ["Ps21_ObjectiveCBridgeable", "int"]
+- !private ["Ps21_ObjectiveCBridgeable", "isNull"]
+- !private ["Ps21_ObjectiveCBridgeable", "object"]
+- !private ["Ps21_ObjectiveCBridgeable", "string"]
+- !private ["Ps21_ObjectiveCBridgeable", "uint"]
+depends-nominal:
+- !private "Ps9AnyObject"
+- "Sa"
+- !private "Ps23BidirectionalCollection"
+- !private "Ps22BidirectionalIndexable"
+- !private "P4HTTP17BodyRepresentable"
+- "Sb"
+- !private "P4Core16BytesConvertible"
+- !private "P4Core18BytesInitializable"
+- !private "P4Core18BytesRepresentable"
+- !private "Ps7CVarArg"
+- !private "Ps10Collection"
+- !private "Ps10Comparable"
+- !private "P4Node7Context"
+- !private "P5Vapor9Countable"
+- !private "Ps28CustomDebugStringConvertible"
+- !private "Ps29CustomPlaygroundQuickLookable"
+- !private "Ps17CustomReflectable"
+- !private "Ps23CustomStringConvertible"
+- !private "Ps9Equatable"
+- !private "Ps25ExpressibleByArrayLiteral"
+- !private "Ps43ExpressibleByExtendedGraphemeClusterLiteral"
+- !private "Ps32ExpressibleByStringInterpolation"
+- !private "Ps26ExpressibleByStringLiteral"
+- !private "Ps33ExpressibleByUnicodeScalarLiteral"
+- "V8FormData5Field"
+- !private "Ps8Hashable"
+- !private "Ps9Indexable"
+- !private "Ps13IndexableBase"
+- !private "Vs16IndexingIterator"
+- !private "Ps16IteratorProtocol"
+- !private "Ps25LosslessStringConvertible"
+- !private "Ps10MirrorPath"
+- !private "Ps17MutableCollection"
+- !private "Ps16MutableIndexable"
+- !private "PSo8NSCoding"
+- !private "PSo9NSCopying"
+- !private "PSo16NSMutableCopying"
+- !private "CSo8NSObject"
+- !private "PSo16NSObjectProtocol"
+- !private "PSo14NSSecureCoding"
+- !private "CSo8NSString"
+- !private "P4Node15NodeConvertible"
+- !private "P4Node17NodeInitializable"
+- !private "P4Node17NodeRepresentable"
+- "Sq"
+- "V9Multipart4Part"
+- !private "P13PathIndexable9PathIndex"
+- "P11Polymorphic11Polymorphic"
+- !private "P5Vapor24PolymorphicInitializable"
+- !private "Ps22RandomAccessCollection"
+- !private "Ps21RandomAccessIndexable"
+- !private "Ps26RangeReplaceableCollection"
+- !private "Ps25RangeReplaceableIndexable"
+- !private "P5Vapor23RequestContentSubscript"
+- !private "P4HTTP21ResponseRepresentable"
+- !private "Ps8Sequence"
+- "SS"
+- !private "P15TypeSafeRouting19StringInitializable"
+- !private "Ps16TextOutputStream"
+- !private "Ps20TextOutputStreamable"
+- !private "P5Vapor11Validatable"
+- !private "Ps14_ArrayProtocol"
+- !private "Ps24_DestructorSafeContainer"
+- !private "Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral"
+- !private "Ps34_ExpressibleByBuiltinStringLiteral"
+- !private "Ps39_ExpressibleByBuiltinUTF16StringLiteral"
+- !private "Ps41_ExpressibleByBuiltinUnicodeScalarLiteral"
+- !private "Ps35_HasCustomAnyHashableRepresentation"
+- !private "Ps9_Hashable"
+- !private "Ps21_ObjectiveCBridgeable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Users/oslo/code/swift_vapor_server/.build/debug/Cipher.swiftmodule"
+- "/Users/oslo/code/swift_vapor_server/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/whrlpool.h"
+- "/Users/oslo/code/swift_vapor_server/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/ui_compat.h"
+- "/Users/oslo/code/swift_vapor_server/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/txt_db.h"
+- "/Users/oslo/code/swift_vapor_server/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/ts.h"
+- "/Users/oslo/code/swift_vapor_server/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/tls.h"
+- "/Users/oslo/code/swift_vapor_server/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/ripemd.h"
+- "/Users/oslo/code/swift_vapor_server/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/rc4.h"
+- "/Users/oslo/code/swift_vapor_server/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/rc2.h"
+- "/Users/oslo/code/swift_vapor_server/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/rand.h"
+- "/Users/oslo/code/swift_vapor_server/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/poly1305.h"
+- "/Users/oslo/code/swift_vapor_server/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/pkcs12.h"
+- "/Users/oslo/code/swift_vapor_server/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/opensslfeatures.h"
+- "/Users/oslo/code/swift_vapor_server/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/opensslconf.h"
+- "/Users/oslo/code/swift_vapor_server/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/x509v3.h"
+- "/Users/oslo/code/swift_vapor_server/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/ocsp.h"
+- "/Users/oslo/code/swift_vapor_server/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/modes.h"
+- "/Users/oslo/code/swift_vapor_server/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/md5.h"
+- "/Users/oslo/code/swift_vapor_server/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/md4.h"
+- "/Users/oslo/code/swift_vapor_server/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/krb5_asn.h"
+- "/Users/oslo/code/swift_vapor_server/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/idea.h"
+- "/Users/oslo/code/swift_vapor_server/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/gost.h"
+- "/Users/oslo/code/swift_vapor_server/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/err.h"
+- "/Users/oslo/code/swift_vapor_server/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/ui.h"
+- "/Users/oslo/code/swift_vapor_server/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/engine.h"
+- "/Users/oslo/code/swift_vapor_server/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/ssl.h"
+- "/Users/oslo/code/swift_vapor_server/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/srtp.h"
+- "/Users/oslo/code/swift_vapor_server/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/ssl23.h"
+- "/Users/oslo/code/swift_vapor_server/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/tls1.h"
+- "/Users/oslo/code/swift_vapor_server/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/ssl3.h"
+- "/Users/oslo/code/swift_vapor_server/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/ssl2.h"
+- "/Users/oslo/code/swift_vapor_server/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/pem2.h"
+- "/Users/oslo/code/swift_vapor_server/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/pkcs7.h"
+- "/Users/oslo/code/swift_vapor_server/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/x509_vfy.h"
+- "/Users/oslo/code/swift_vapor_server/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/sha.h"
+- "/Users/oslo/code/swift_vapor_server/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/rsa.h"
+- "/Users/oslo/code/swift_vapor_server/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/ecdh.h"
+- "/Users/oslo/code/swift_vapor_server/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/ecdsa.h"
+- "/Users/oslo/code/swift_vapor_server/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/ec.h"
+- "/Users/oslo/code/swift_vapor_server/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/x509.h"
+- "/Users/oslo/code/swift_vapor_server/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/pem.h"
+- "/Users/oslo/code/swift_vapor_server/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/hmac.h"
+- "/Users/oslo/code/swift_vapor_server/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/dtls1.h"
+- "/Users/oslo/code/swift_vapor_server/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/dso.h"
+- "/Users/oslo/code/swift_vapor_server/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/dsa.h"
+- "/Users/oslo/code/swift_vapor_server/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/dh.h"
+- "/Users/oslo/code/swift_vapor_server/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/des.h"
+- "/Users/oslo/code/swift_vapor_server/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/conf_api.h"
+- "/Users/oslo/code/swift_vapor_server/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/lhash.h"
+- "/Users/oslo/code/swift_vapor_server/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/conf.h"
+- "/Users/oslo/code/swift_vapor_server/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/crypto.h"
+- "/Users/oslo/code/swift_vapor_server/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/comp.h"
+- "/Users/oslo/code/swift_vapor_server/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/cms.h"
+- "/Users/oslo/code/swift_vapor_server/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/obj_mac.h"
+- "/Users/oslo/code/swift_vapor_server/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/objects.h"
+- "/Users/oslo/code/swift_vapor_server/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/evp.h"
+- "/Users/oslo/code/swift_vapor_server/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/cmac.h"
+- "/Users/oslo/code/swift_vapor_server/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/chacha.h"
+- "/Users/oslo/code/swift_vapor_server/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/cast.h"
+- "/Users/oslo/code/swift_vapor_server/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/camellia.h"
+- "/Users/oslo/code/swift_vapor_server/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/buffer.h"
+- "/Users/oslo/code/swift_vapor_server/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/blowfish.h"
+- "/Users/oslo/code/swift_vapor_server/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/asn1t.h"
+- "/Users/oslo/code/swift_vapor_server/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/asn1_mac.h"
+- "/Users/oslo/code/swift_vapor_server/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/bn.h"
+- "/Users/oslo/code/swift_vapor_server/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/ossl_typ.h"
+- "/Users/oslo/code/swift_vapor_server/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/opensslv.h"
+- "/Users/oslo/code/swift_vapor_server/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/safestack.h"
+- "/Users/oslo/code/swift_vapor_server/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/stack.h"
+- "/Users/oslo/code/swift_vapor_server/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/bio.h"
+- "/Users/oslo/code/swift_vapor_server/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/asn1.h"
+- "/Users/oslo/code/swift_vapor_server/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/aes.h"
+- "/Users/oslo/code/swift_vapor_server/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/CLibreSSL.h"
+- "/Users/oslo/code/swift_vapor_server/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/module.modulemap"
+- "/Users/oslo/code/swift_vapor_server/.build/debug/Core.swiftmodule"
+- "/Users/oslo/code/swift_vapor_server/.build/debug/libc.swiftmodule"
+- "/Users/oslo/code/swift_vapor_server/.build/debug/Essentials.swiftmodule"
+- "/Users/oslo/code/swift_vapor_server/.build/debug/Console.swiftmodule"
+- "/Users/oslo/code/swift_vapor_server/.build/debug/Polymorphic.swiftmodule"
+- "/Users/oslo/code/swift_vapor_server/.build/debug/Settings.swiftmodule"
+- "/Users/oslo/code/swift_vapor_server/.build/debug/JSON.swiftmodule"
+- "/Users/oslo/code/swift_vapor_server/.build/debug/Jay.swiftmodule"
+- "/Users/oslo/code/swift_vapor_server/.build/debug/Node.swiftmodule"
+- "/Users/oslo/code/swift_vapor_server/.build/debug/PathIndexable.swiftmodule"
+- "/Users/oslo/code/swift_vapor_server/.build/debug/HTTP.swiftmodule"
+- "/Users/oslo/code/swift_vapor_server/.build/debug/Transport.swiftmodule"
+- "/Users/oslo/code/swift_vapor_server/.build/debug/SocksCore.swiftmodule"
+- "/Users/oslo/code/swift_vapor_server/.build/debug/TLS.swiftmodule"
+- "/Users/oslo/code/swift_vapor_server/.build/debug/URI.swiftmodule"
+- "/Users/oslo/code/swift_vapor_server/.build/debug/Fluent.swiftmodule"
+- "/Users/oslo/code/swift_vapor_server/.build/debug/Cache.swiftmodule"
+- "/Users/oslo/code/swift_vapor_server/.build/debug/Sessions.swiftmodule"
+- "/Users/oslo/code/swift_vapor_server/.build/debug/Cookies.swiftmodule"
+- "/Users/oslo/code/swift_vapor_server/.build/debug/Random.swiftmodule"
+- "/Users/oslo/code/swift_vapor_server/.build/debug/HTTPRouting.swiftmodule"
+- "/Users/oslo/code/swift_vapor_server/.build/debug/Routing.swiftmodule"
+- "/Users/oslo/code/swift_vapor_server/.build/debug/HMAC.swiftmodule"
+- "/Users/oslo/code/swift_vapor_server/.build/debug/TypeSafeRouting.swiftmodule"
+- "/Users/oslo/code/swift_vapor_server/.build/debug/WebSockets.swiftmodule"
+- "/Users/oslo/code/swift_vapor_server/.build/debug/Hash.swiftmodule"
+- "/Users/oslo/code/swift_vapor_server/.build/debug/Socks.swiftmodule"
+- "/Users/oslo/code/swift_vapor_server/.build/debug/FormData.swiftmodule"
+- "/Users/oslo/code/swift_vapor_server/.build/debug/Multipart.swiftmodule"
+- "/Users/oslo/code/swift_vapor_server/.build/debug/Leaf.swiftmodule"
+interface-hash: "68dae0020bd5da0a9f842a4b1e88a535"

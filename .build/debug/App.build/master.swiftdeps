@@ -1,0 +1,7 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "75f7a6b963ed3ebe2d73667b783b7bf0"
+build_time: [543137526, 834239000]
+inputs:
+  "/Users/oslo/code/swift_vapor_server/Sources/App/main.swift": [543137520, 0]
+  "/Users/oslo/code/swift_vapor_server/Sources/App/Controllers/PostController.swift": [543136325, 0]
+  "/Users/oslo/code/swift_vapor_server/Sources/App/Models/Post.swift": [543136325, 0]

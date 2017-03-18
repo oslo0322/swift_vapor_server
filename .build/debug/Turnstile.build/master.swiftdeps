@@ -1,0 +1,17 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "31a0745e4b1b221131da5b75ab9ac3f3"
+build_time: [543137222, 177651000]
+inputs:
+  "/Users/oslo/code/swift_vapor_server/Packages/Turnstile-1.0.6/Sources/Turnstile/TurnstileError.swift": [543137186, 0]
+  "/Users/oslo/code/swift_vapor_server/Packages/Turnstile-1.0.6/Sources/Turnstile/Core/Subject.swift": [543137186, 0]
+  "/Users/oslo/code/swift_vapor_server/Packages/Turnstile-1.0.6/Sources/Turnstile/Core/Turnstile.swift": [543137186, 0]
+  "/Users/oslo/code/swift_vapor_server/Packages/Turnstile-1.0.6/Sources/Turnstile/Credentials/APIKey.swift": [543137186, 0]
+  "/Users/oslo/code/swift_vapor_server/Packages/Turnstile-1.0.6/Sources/Turnstile/Credentials/Credentials.swift": [543137186, 0]
+  "/Users/oslo/code/swift_vapor_server/Packages/Turnstile-1.0.6/Sources/Turnstile/Credentials/CredentialsError.swift": [543137186, 0]
+  "/Users/oslo/code/swift_vapor_server/Packages/Turnstile-1.0.6/Sources/Turnstile/Credentials/Token.swift": [543137186, 0]
+  "/Users/oslo/code/swift_vapor_server/Packages/Turnstile-1.0.6/Sources/Turnstile/Credentials/UsernamePassword.swift": [543137186, 0]
+  "/Users/oslo/code/swift_vapor_server/Packages/Turnstile-1.0.6/Sources/Turnstile/Realm/Account.swift": [543137186, 0]
+  "/Users/oslo/code/swift_vapor_server/Packages/Turnstile-1.0.6/Sources/Turnstile/Realm/MemoryRealm.swift": [543137186, 0]
+  "/Users/oslo/code/swift_vapor_server/Packages/Turnstile-1.0.6/Sources/Turnstile/Realm/Realm.swift": [543137186, 0]
+  "/Users/oslo/code/swift_vapor_server/Packages/Turnstile-1.0.6/Sources/Turnstile/SessionManager/MemorySessionManager.swift": [543137186, 0]
+  "/Users/oslo/code/swift_vapor_server/Packages/Turnstile-1.0.6/Sources/Turnstile/SessionManager/SessionManager.swift": [543137186, 0]

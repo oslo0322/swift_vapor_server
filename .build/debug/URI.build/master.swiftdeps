@@ -1,0 +1,14 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "cbe781c22361d951adda398b850ccd88"
+build_time: [543137226, 284575000]
+inputs:
+  "/Users/oslo/code/swift_vapor_server/Packages/Engine-1.3.12/Sources/URI/PercentDecoding.swift": [543137142, 0]
+  "/Users/oslo/code/swift_vapor_server/Packages/Engine-1.3.12/Sources/URI/Model/URI+Byte.swift": [543137128, 0]
+  "/Users/oslo/code/swift_vapor_server/Packages/Engine-1.3.12/Sources/URI/Model/URI+Modification.swift": [543137142, 0]
+  "/Users/oslo/code/swift_vapor_server/Packages/Engine-1.3.12/Sources/URI/Model/URI+Ports.swift": [543137128, 0]
+  "/Users/oslo/code/swift_vapor_server/Packages/Engine-1.3.12/Sources/URI/Model/URI+String.swift": [543137128, 0]
+  "/Users/oslo/code/swift_vapor_server/Packages/Engine-1.3.12/Sources/URI/Model/URI.swift": [543137128, 0]
+  "/Users/oslo/code/swift_vapor_server/Packages/Engine-1.3.12/Sources/URI/Parser/Parser+Components.swift": [543137128, 0]
+  "/Users/oslo/code/swift_vapor_server/Packages/Engine-1.3.12/Sources/URI/Parser/Parser+Public.swift": [543137128, 0]
+  "/Users/oslo/code/swift_vapor_server/Packages/Engine-1.3.12/Sources/URI/Parser/Parser+SubComponents.swift": [543137128, 0]
+  "/Users/oslo/code/swift_vapor_server/Packages/Engine-1.3.12/Sources/URI/Parser/Parser.swift": [543137142, 0]

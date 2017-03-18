@@ -1,0 +1,16 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "d6589aff3cd5faaefdca9d5c0c310466"
+build_time: [543137223, 662220000]
+inputs:
+  "/Users/oslo/code/swift_vapor_server/Packages/Turnstile-1.0.6/Sources/TurnstileWeb/URLSession+Turnstile.swift": [543137186, 0]
+  "/Users/oslo/code/swift_vapor_server/Packages/Turnstile-1.0.6/Sources/TurnstileWeb/WebMemoryRealm.swift": [543137186, 0]
+  "/Users/oslo/code/swift_vapor_server/Packages/Turnstile-1.0.6/Sources/TurnstileWeb/LoginProviders/Digits.swift": [543137186, 0]
+  "/Users/oslo/code/swift_vapor_server/Packages/Turnstile-1.0.6/Sources/TurnstileWeb/LoginProviders/Facebook.swift": [543137186, 0]
+  "/Users/oslo/code/swift_vapor_server/Packages/Turnstile-1.0.6/Sources/TurnstileWeb/LoginProviders/Google.swift": [543137186, 0]
+  "/Users/oslo/code/swift_vapor_server/Packages/Turnstile-1.0.6/Sources/TurnstileWeb/Protocols/OAuth/OAuthDelegator.swift": [543137186, 0]
+  "/Users/oslo/code/swift_vapor_server/Packages/Turnstile-1.0.6/Sources/TurnstileWeb/Protocols/OAuth/OAuthEcho.swift": [543137186, 0]
+  "/Users/oslo/code/swift_vapor_server/Packages/Turnstile-1.0.6/Sources/TurnstileWeb/Protocols/OAuth/OAuthParameters.swift": [543137186, 0]
+  "/Users/oslo/code/swift_vapor_server/Packages/Turnstile-1.0.6/Sources/TurnstileWeb/Protocols/OAuth2/AuthorizationCode.swift": [543137186, 0]
+  "/Users/oslo/code/swift_vapor_server/Packages/Turnstile-1.0.6/Sources/TurnstileWeb/Protocols/OAuth2/OAuth2.swift": [543137186, 0]
+  "/Users/oslo/code/swift_vapor_server/Packages/Turnstile-1.0.6/Sources/TurnstileWeb/Protocols/OAuth2/OAuth2Error.swift": [543137186, 0]
+  "/Users/oslo/code/swift_vapor_server/Packages/Turnstile-1.0.6/Sources/TurnstileWeb/Protocols/OAuth2/OAuth2Token.swift": [543137186, 0]

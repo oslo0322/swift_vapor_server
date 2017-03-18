@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "62ec17adbfd3fd75a16eced7eb49a031"
+build_time: [543137221, 878278000]
+inputs:
+  "/Users/oslo/code/swift_vapor_server/Packages/Crypto-1.1.0/Sources/Cipher/Cipher.swift": [543137040, 0]
+  "/Users/oslo/code/swift_vapor_server/Packages/Crypto-1.1.0/Sources/Cipher/Method.swift": [543137040, 0]

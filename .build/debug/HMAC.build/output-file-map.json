@@ -1,0 +1,17 @@
+{
+  "": {
+    "swift-dependencies": "/Users/oslo/code/swift_vapor_server/.build/debug/HMAC.build/master.swiftdeps"
+  },
+  "/Users/oslo/code/swift_vapor_server/Packages/Crypto-1.1.0/Sources/HMAC/HMAC.swift": {
+    "dependencies": "/Users/oslo/code/swift_vapor_server/.build/debug/HMAC.build/HMAC.d",
+    "object": "/Users/oslo/code/swift_vapor_server/.build/debug/HMAC.build/HMAC.swift.o",
+    "swiftmodule": "/Users/oslo/code/swift_vapor_server/.build/debug/HMAC.build/HMAC~partial.swiftmodule",
+    "swift-dependencies": "/Users/oslo/code/swift_vapor_server/.build/debug/HMAC.build/HMAC.swiftdeps"
+  },
+  "/Users/oslo/code/swift_vapor_server/Packages/Crypto-1.1.0/Sources/HMAC/Method.swift": {
+    "dependencies": "/Users/oslo/code/swift_vapor_server/.build/debug/HMAC.build/Method.d",
+    "object": "/Users/oslo/code/swift_vapor_server/.build/debug/HMAC.build/Method.swift.o",
+    "swiftmodule": "/Users/oslo/code/swift_vapor_server/.build/debug/HMAC.build/Method~partial.swiftmodule",
+    "swift-dependencies": "/Users/oslo/code/swift_vapor_server/.build/debug/HMAC.build/Method.swiftdeps"
+  }
+}

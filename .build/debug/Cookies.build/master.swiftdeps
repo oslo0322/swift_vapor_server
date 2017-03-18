@@ -1,0 +1,15 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "2d0a620a4dcac960578168d37261236b"
+build_time: [543137234, 560242000]
+inputs:
+  "/Users/oslo/code/swift_vapor_server/Packages/Vapor-1.5.12/Sources/Cookies/Cookie+BytesConvertible.swift": [543137033, 0]
+  "/Users/oslo/code/swift_vapor_server/Packages/Vapor-1.5.12/Sources/Cookies/Cookie+Parse.swift": [543137033, 0]
+  "/Users/oslo/code/swift_vapor_server/Packages/Vapor-1.5.12/Sources/Cookies/Cookie+Serialize.swift": [543137033, 0]
+  "/Users/oslo/code/swift_vapor_server/Packages/Vapor-1.5.12/Sources/Cookies/Cookie.swift": [543137033, 0]
+  "/Users/oslo/code/swift_vapor_server/Packages/Vapor-1.5.12/Sources/Cookies/Cookies+BytesConvertible.swift": [543137033, 0]
+  "/Users/oslo/code/swift_vapor_server/Packages/Vapor-1.5.12/Sources/Cookies/Cookies+Literal.swift": [543137033, 0]
+  "/Users/oslo/code/swift_vapor_server/Packages/Vapor-1.5.12/Sources/Cookies/Cookies+Parse.swift": [543137033, 0]
+  "/Users/oslo/code/swift_vapor_server/Packages/Vapor-1.5.12/Sources/Cookies/Cookies+Serialize.swift": [543137033, 0]
+  "/Users/oslo/code/swift_vapor_server/Packages/Vapor-1.5.12/Sources/Cookies/Cookies.swift": [543137033, 0]
+  "/Users/oslo/code/swift_vapor_server/Packages/Vapor-1.5.12/Sources/Cookies/Request+Cookies.swift": [543137033, 0]
+  "/Users/oslo/code/swift_vapor_server/Packages/Vapor-1.5.12/Sources/Cookies/Response+Cookies.swift": [543137033, 0]

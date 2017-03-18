@@ -1,0 +1,10 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "2129614d334c91ff236de48553203b8a"
+build_time: [543137235, 603535000]
+inputs:
+  "/Users/oslo/code/swift_vapor_server/Packages/Vapor-1.5.12/Sources/Sessions/CacheSessions.swift": [543137033, 0]
+  "/Users/oslo/code/swift_vapor_server/Packages/Vapor-1.5.12/Sources/Sessions/MemorySessions.swift": [543137033, 0]
+  "/Users/oslo/code/swift_vapor_server/Packages/Vapor-1.5.12/Sources/Sessions/Request+Session.swift": [543137033, 0]
+  "/Users/oslo/code/swift_vapor_server/Packages/Vapor-1.5.12/Sources/Sessions/Session.swift": [543137033, 0]
+  "/Users/oslo/code/swift_vapor_server/Packages/Vapor-1.5.12/Sources/Sessions/SessionsMiddleware.swift": [543137033, 0]
+  "/Users/oslo/code/swift_vapor_server/Packages/Vapor-1.5.12/Sources/Sessions/SessionsProtocol.swift": [543137033, 0]

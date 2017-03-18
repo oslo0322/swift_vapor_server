@@ -1,0 +1,19 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "a92891a798bef3afed33a1ebf085e7be"
+build_time: [543137214, 871252000]
+inputs:
+  "/Users/oslo/code/swift_vapor_server/Packages/Socks-1.2.7/Sources/SocksCore/Address+C.swift": [543137154, 0]
+  "/Users/oslo/code/swift_vapor_server/Packages/Socks-1.2.7/Sources/SocksCore/Address.swift": [543137154, 0]
+  "/Users/oslo/code/swift_vapor_server/Packages/Socks-1.2.7/Sources/SocksCore/Bytes.swift": [543137154, 0]
+  "/Users/oslo/code/swift_vapor_server/Packages/Socks-1.2.7/Sources/SocksCore/Conversions.swift": [543137154, 0]
+  "/Users/oslo/code/swift_vapor_server/Packages/Socks-1.2.7/Sources/SocksCore/Error.swift": [543137154, 0]
+  "/Users/oslo/code/swift_vapor_server/Packages/Socks-1.2.7/Sources/SocksCore/FDSet.swift": [543137154, 0]
+  "/Users/oslo/code/swift_vapor_server/Packages/Socks-1.2.7/Sources/SocksCore/InternetSocket.swift": [543137154, 0]
+  "/Users/oslo/code/swift_vapor_server/Packages/Socks-1.2.7/Sources/SocksCore/Pipe.swift": [543137154, 0]
+  "/Users/oslo/code/swift_vapor_server/Packages/Socks-1.2.7/Sources/SocksCore/Select.swift": [543137154, 0]
+  "/Users/oslo/code/swift_vapor_server/Packages/Socks-1.2.7/Sources/SocksCore/Socket.swift": [543137154, 0]
+  "/Users/oslo/code/swift_vapor_server/Packages/Socks-1.2.7/Sources/SocksCore/SocketOptions+Deprecated.swift": [543137154, 0]
+  "/Users/oslo/code/swift_vapor_server/Packages/Socks-1.2.7/Sources/SocksCore/SocketOptions.swift": [543137154, 0]
+  "/Users/oslo/code/swift_vapor_server/Packages/Socks-1.2.7/Sources/SocksCore/TCPSocket.swift": [543137154, 0]
+  "/Users/oslo/code/swift_vapor_server/Packages/Socks-1.2.7/Sources/SocksCore/Types.swift": [543137154, 0]
+  "/Users/oslo/code/swift_vapor_server/Packages/Socks-1.2.7/Sources/SocksCore/UDPSocket.swift": [543137154, 0]
